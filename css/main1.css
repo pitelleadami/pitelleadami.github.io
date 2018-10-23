@@ -1,7 +1,12 @@
 
 @font-face {
     font-family: Just Signature;
-    src: url(justsignature.ttf) format('truetype');
+    src: url(justsignature.ttf) format('truetype').
+	src: url(justsignature.eot) format('embedded-opentype'),
+         url(justsignature.woff) format('woff'),
+	 url(justsignature.woff2) format('woff2'),
+         url(justsignature.ttf) format('truetype'),
+         url(justsignature.svg) format('svg');
 }
 
 body {
