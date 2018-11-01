@@ -1,6 +1,6 @@
 
 @font-face {
-    font-family: Just Signature;
+    font-family: justsignature;
     src: url(/fonts/justsignature.ttf) format('truetype').
 	src: url(/fonts/justsignature.eot) format('embedded-opentype'),
          url(/fonts/justsignature.woff) format('woff'),
@@ -19,7 +19,7 @@ body {
 h1 {
     color: rgba(150,120,90,1.00);
     text-align: center;
-	font-family: "Just Signature", Dawning of a New Day, cursive;
+	font-family: justsignature, Dawning of a New Day, cursive;
     font-size: 36px;
 }
 
