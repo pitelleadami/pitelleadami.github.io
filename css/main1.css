@@ -2,10 +2,9 @@
 @font-face {
     font-family: 'justsignature';
     src: url('/fonts/justsignature.ttf') format('truetype').
-	src: url(/fonts/justsignature.eot') format('embedded-opentype'),
+	url(/fonts/justsignature.eot') format('embedded-opentype'),
          url('/fonts/justsignature.woff') format('woff'),
 	 url('/fonts/justsignature.woff2') format('woff2'),
-         url('/fonts/justsignature.ttf') format('truetype'),
          url('/fonts/justsignature.svg') format('svg');
 }
 
